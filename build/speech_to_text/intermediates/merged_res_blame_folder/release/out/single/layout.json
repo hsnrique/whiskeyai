@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.csdcorp.speech_to_text-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.csdcorp.speech_to_text-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.csdcorp.speech_to_text-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.csdcorp.speech_to_text-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.csdcorp.speech_to_text-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.csdcorp.speech_to_text-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    }
+]

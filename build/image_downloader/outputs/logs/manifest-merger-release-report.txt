@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml:1:1-49
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml:1:1-49
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml:1:1-49
+	package
+		ADDED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml:1:11-46
+		INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml:1:1-49
+uses-sdk
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\henry\AppData\Local\Pub\Cache\git\image_downloader-9565dbc5c83e013bce2af4daef2616133ae16254\android\src\main\AndroidManifest.xml

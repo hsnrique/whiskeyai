@@ -1,0 +1,12 @@
+com.csdcorp.speech_to_text-jetified-window-1.0.0-beta04-0 C:\Users\henry\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.csdcorp.speech_to_text-jetified-annotation-experimental-1.1.0-1 C:\Users\henry\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.csdcorp.speech_to_text-core-1.6.0-2 C:\Users\henry\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.csdcorp.speech_to_text-jetified-window-java-1.0.0-beta04-3 C:\Users\henry\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.csdcorp.speech_to_text-main-4 C:\Users\henry\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.3.0\android\src\main\res
+com.csdcorp.speech_to_text-release-5 C:\Users\henry\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.3.0\android\src\release\res
+com.csdcorp.speech_to_text-pngs-6 C:\Users\henry\StudioProjects\whiskeyai\build\speech_to_text\generated\res\pngs\release
+com.csdcorp.speech_to_text-resValues-7 C:\Users\henry\StudioProjects\whiskeyai\build\speech_to_text\generated\res\resValues\release
+com.csdcorp.speech_to_text-rs-8 C:\Users\henry\StudioProjects\whiskeyai\build\speech_to_text\generated\res\rs\release
+com.csdcorp.speech_to_text-mergeReleaseResources-9 C:\Users\henry\StudioProjects\whiskeyai\build\speech_to_text\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.csdcorp.speech_to_text-mergeReleaseResources-10 C:\Users\henry\StudioProjects\whiskeyai\build\speech_to_text\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.csdcorp.speech_to_text-merged_res-11 C:\Users\henry\StudioProjects\whiskeyai\build\speech_to_text\intermediates\merged_res\release

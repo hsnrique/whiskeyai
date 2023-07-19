@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout_custom_dialog.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-main-8:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-v21_notification_action_background.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-main-8:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable_notification_icon_background.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-main-8:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-main-8:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/raw_firebase_common_keep.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-jetified-firebase-common-20.3.3-3:/raw/firebase_common_keep.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-v21_launch_background.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-main-8:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout_notification_template_part_time.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-main-8:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/layout-v21_notification_action.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable_notification_bg.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable_notification_bg_low.xml.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.spacedsoft.com.whiskeyai.app-merged_res-15:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.spacedsoft.com.whiskeyai.app-core-1.9.0-7:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]

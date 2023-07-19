@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.spacedsoft.com.whiskeyai.app-mergeReleaseResources-13:/values-in/values-in.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\henry\\.gradle\\caches\\transforms-3\\c2aff38445ebad8ddeaa989ecf50f56e\\transformed\\core-1.9.0\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "187",
+                        "endColumns": "100",
+                        "endOffsets": "283"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\henry\\.gradle\\caches\\transforms-3\\58aa1384bde170d075503b845cfcf44c\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-in\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "127",
+                        "endOffsets": "322"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "131",
+                        "endOffsets": "182"
+                    }
+                }
+            ]
+        }
+    ]
+}
