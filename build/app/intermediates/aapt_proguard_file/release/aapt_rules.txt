@@ -1,5 +1,0 @@
--keep class android.app.Application { <init>(); }
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
--keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
--keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
--keep class com.spacedsoft.com.whiskeyai.MainActivity { <init>(); }

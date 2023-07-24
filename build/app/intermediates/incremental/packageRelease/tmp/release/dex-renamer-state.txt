@@ -1,4 +1,0 @@
-#Mon Jul 17 17:05:29 BRT 2023
-base.0=C\:\\Users\\henry\\StudioProjects\\whiskeyai\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
